@@ -19,4 +19,4 @@
 2. 開啟 `fraud_model.ipynb` 查看分析流程與結果
 
 ## 作者
-黃睿翔
+Rex
